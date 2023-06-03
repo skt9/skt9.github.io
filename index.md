@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space - The Latent Frontier
-tagline: $q_{\phi}(zzzzzzzzz......../x)$
+tagline: Boldly moving $q_{\phi}(z/x)$ to $p(z/x)$
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
