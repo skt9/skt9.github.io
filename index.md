@@ -1,7 +1,7 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+title: Space - The Latent Frontier
+tagline: To boldly go where the dynamics takes you.
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
