@@ -5,6 +5,14 @@ tagline: Boldly moving $q_{\phi}(z/x)$ to $p(z/x)$
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
+To rejoin a slurm session use this [link](https://stackoverflow.com/questions/63366098/rejoin-a-bash-slurm-job).
+Steps to follow are:
+- Get your job ID: squeue -u $USERNAME
+- Get your NodeID: scontrol show job $JOBID | grep NodeList
+- Attach (you can assign step = 0): sattach $JOBID.0
+
+To [How to use bold math symbols in latex.](https://texfaq.org/FAQ-boldgreek)
+
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
