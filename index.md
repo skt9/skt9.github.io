@@ -4,7 +4,7 @@ title: Space - The Latent Frontier
 tagline: Boldly moving $q_{\phi}(z/x)$ to $p(z/x)$
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
-
+### Rejoin SLURM session
 To rejoin a slurm session use this [link](https://stackoverflow.com/questions/63366098/rejoin-a-bash-slurm-job).
 Steps to follow are:
 - Get your job ID: squeue -u $USERNAME
