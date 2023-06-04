@@ -12,6 +12,7 @@ Steps to follow are:
 - Attach (you can assign step = 0): sattach $JOBID.0
 
 To [How to use bold math symbols in latex.](https://texfaq.org/FAQ-boldgreek)
+<br />
 
 ### Taurus Workflow
 
