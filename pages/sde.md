@@ -20,3 +20,18 @@ of random behaviour are possible, such as jump processes like Lévy processes[4]
 with jumps. Random differential equations are conjugate to stochastic differential equations. 
 Stochastic differential equations can also be extended to differential manifolds.[5][6][7][8]
 
+
+### Brownian Motion
+
+Brownian motion is the random motion of particles suspended in a medium (a liquid or a gas).[2]
+
+This motion pattern typically consists of random fluctuations in a particle's position inside a 
+fluid sub-domain, followed by a relocation to another sub-domain. Each relocation is followed by 
+more fluctuations within the new closed volume. This pattern describes a fluid at thermal equilibrium, 
+defined by a given temperature. Within such a fluid, there exists no preferential direction of flow 
+(as in transport phenomena). More specifically, the fluid's overall linear and angular momenta remain 
+null over time. The kinetic energies of the molecular Brownian motions, together with those of molecular 
+rotations and vibrations, sum up to the caloric component of a fluid's internal energy 
+(the equipartition theorem).
+
+
