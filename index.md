@@ -13,6 +13,11 @@ Steps to follow are:
 
 To [How to use bold math symbols in latex.](https://texfaq.org/FAQ-boldgreek)
 
+### Taurus Workflow
+
+Taurus load PyTorch: module load modenv/hiera  GCC/11.3.0  OpenMPI/4.1.4 PyTorch/1.12.0-CUDA-11.7.0
+
+
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
