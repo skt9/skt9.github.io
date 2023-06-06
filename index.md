@@ -25,6 +25,11 @@ Taurus load PyTorch:
 
 Right now we will go to the [following link](pages/sde.md).
 
+
+### Visualization and Annotation Information Storage
+
+This [link](pages/colormaps_visualization_annotation.md) will contain information related to visualization and annotation.
+
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
