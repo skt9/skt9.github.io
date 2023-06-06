@@ -63,9 +63,9 @@ Edit the
 
     title : simple site
     author :
-      name : Karl Broman
-      email : kbroman@gmail.com
-      github : kbroman
+      name : Siddharth Tourani
+      email : tourani.siddharth@gmail.com
+      github : skt9
       feedburner : nil
 
 Edit the
@@ -74,7 +74,7 @@ by replacing `kbroman` with _your_ github user name, and replace
 `simple_site` with the name that your repository will have on github
 (`something_meaningful`?).
 
-    production_url : https://kbroman.github.io/simple_site
+    production_url : https://skt9.github.io
 
 Note that the `https` (vs `http`) is important here; see
 &ldquo;[Securing your github pages site with https](https://help.github.com/articles/securing-your-github-pages-site-with-https/).&rdquo;
@@ -85,7 +85,7 @@ Replace the
 [`BASE_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L52)
 with the same url.
 
-    BASE_PATH : https://kbroman.github.io/simple_site
+    BASE_PATH : https://skt9.github.io
 
 There's also an
 [`ASSET_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L62),
@@ -104,18 +104,17 @@ a look at
 ### Edit `_includes/themes/twitter/default.html`
 
 The
-[`_includes/themes/twitter/default.html`](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html)
+[`_includes/themes/twitter/default.html`](https://github.com/skt9.github.io/_includes/themes/twitter/default.html)
 file defines how a basic page will look on your site. In particular,
 it contains a bit of html code for a footer, if you want one.
 
 Find the
-[footer for my site](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html#L47-L50)
+[footer for my site](https://github.com/skt9.github.io/_includes/themes/twitter/default.html#L47-L50)
 and remove it or edit it to suit. This is the only bit of html you'll
 have to deal with.
 
     <!-- start of Karl's footer; modify this part -->
-        <a href="https://creativecommons.org/publicdomain/zero/1.0/">  ...
-        <a href="https://kbroman.org">Karl Broman</a>
+        
     <!-- end of Karl's footer; modify this part -->
 
 ### Edit or remove the Markdown files
