@@ -8,7 +8,7 @@ description: Place where information about visualiation and annotation are store
 
 
 ### How to get visually differentiated colors
-```
+```python
 import matplotlib as plt
 cmap = plt.cm.get_cmap('tab20c')
 colors = np.array(cmap.colors)
