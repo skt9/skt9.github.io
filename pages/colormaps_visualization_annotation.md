@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Visualization & Annotation Info-Storage
 description: Place where information about visualiation and annotation are stored
 ---
@@ -20,3 +20,6 @@ Other options that work are <b>'tab10c'</b>, <b>'tab20_r'</b>.
 ### Compositing images with tthe object masks {#compositing-image-obj-masks}
 
 To blend images with object masks
+
+I need to highlight these ==very important words==.
+
