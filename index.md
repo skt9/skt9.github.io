@@ -4,6 +4,9 @@ title: Space - The Latent Frontier
 tagline: Boldly moving $q_{\phi}(z/x)$ to $p(z/x)$
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
+
+---
+
 ### Rejoin SLURM session
 To rejoin a slurm session use this [link](https://stackoverflow.com/questions/63366098/rejoin-a-bash-slurm-job).
 Steps to follow are:
@@ -14,21 +17,28 @@ Steps to follow are:
 To [How to use bold math symbols in latex.](https://texfaq.org/FAQ-boldgreek)
 <br />
 
+---
+
 ### Taurus Workflow
 
 Taurus load PyTorch: 
 
 - module load modenv/hiera  GCC/11.3.0  OpenMPI/4.1.4 PyTorch/1.12.0-CUDA-11.7.0
 - virtualenv --system-site-packages TRCH 
+---
 
 ### The use of SDEs for Diffusion Models
 
 Right now we will go to the [following link](pages/sde.md).
 
+---
+
 
 ### Visualization and Annotation Information Storage
 
 This [link](pages/colormaps_visualization_annotation.md) will contain information related to visualization and annotation.
+
+---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
 website using
