@@ -14,7 +14,7 @@ import matplotlib as plt
 cmap = plt.cm.get_cmap('tab20c')
 
 colors = np.array(cmap.colors)
-<\code>
+</code>
 
 ---
 
