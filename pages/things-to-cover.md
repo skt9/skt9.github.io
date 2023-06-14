@@ -7,4 +7,8 @@
 - Speeding up DDPM
 - KL Divergence
 - Machine Learning Tricks
+- Variational Auto-Encoder
+- Probability - Priors 
+- Stochastic Backpropagation
+- Object Detection
 - 
