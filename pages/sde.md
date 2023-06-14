@@ -3,7 +3,6 @@ layout: post
 title: Stochastic Differential Equations for Diffusion
 description: Overview of the use of SDEs in Diffusion Models
 tags: tags: ["generative-models", "maths"]
-
 ---
 
 ### Introduction to SDEs
