@@ -27,7 +27,7 @@ $$
 \nabla_\theta E_{p_{\theta}(z)}[f_{\theta}(z)] &= \nabla_\theta[\int_{z}p_\theta(z)f_{\theta}(z)dz]\\
 &= [\int_{z} \nabla_\theta(p_\theta(z)f_{\theta}(z))dz]\\
 &=\int_{z} \nabla_\theta(p_\theta(z))]f_{\theta}(z))dz + \int_{z}p_\theta(z) \nabla_\theta f_{\theta}(z))dz\\
-&= \underbrace{\int_{z} \nabla_\theta(p_\theta(z))]f_{\theta}(z))dz} + E_{p_\theta(z)}[\nabla_\theta f_{\theta}(z)]dz
+&= \underbrace{\int_{z} \nabla_\theta(p_\theta(z))f_{\theta}(z))dz} + E_{p_\theta(z)}[\nabla_\theta f_{\theta}(z)]dz
 \end{aligned}
 $$
 
