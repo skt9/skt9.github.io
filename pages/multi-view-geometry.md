@@ -37,4 +37,27 @@ $$
 u' = \frac{u}{2} = \frac{1}{2}\frac{m_1 P}{m_3 P},  v'= \frac{v}{2} =  \frac{1}{2}\frac{m_2 P}{m_3 P}
 $$
 
-Thus, 
+Rewritten in matrix form this is:
+
+
+$$
+(u',v',S) = \begin{pmatrix}\alpha_{x} & 0 & u_0 & \\
+0 & \alpha_{y} & v_0\\
+0 & 0 & 1 \\
+\end{pmatrix}
+\begin{pmatrix}0.5 & 0 & 0.5 & \\
+0 & 0.5 & 0.5\\
+0 & 0 & 1 \\
+\end{pmatrix}
+\begin{pmatrix}R_{11} & R_{12} & R_{13} & T_{x}\\
+R_{21} & R_{22} & R_{23} & T_{y}\\
+R_{31} & R_{32} & R_{33} & T_{z}\\
+0 & 0 & 0 & 1\\
+\end{pmatrix}
+\begin{pmatrix}
+x\\  
+y\\  
+z\\ 
+1\\
+\end{pmatrix}
+$$
