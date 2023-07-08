@@ -62,3 +62,9 @@ z\\
 1\\
 \end{pmatrix}
 $$
+
+Simply put, rescaling in code form for matrix $K$ is written as
+```
+K[0] = s_x \times K[0]
+K[1] = s_y \times K[1]
+```
