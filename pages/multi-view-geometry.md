@@ -29,4 +29,6 @@ z\\
 \end{pmatrix}
 $$
 
+We can write $(u,v,S)$ as $(u/S,v/S,1) as these are homogeneous coordinates. $u$ then can be written as $\frac{m_1 P}{m_3P}$. $v$ then can be written as $\frac{m_2 P}{m_3 P}$.
+
 
