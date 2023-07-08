@@ -65,6 +65,8 @@ $$
 
 Simply put, rescaling in code form for matrix $K$ is written as
 ```
-K[0] = s_x \times K[0]
-K[1] = s_y \times K[1]
+K[0] = s_x*K[0]
+K[1] = s_y*K[1]
 ```
+
+where *s_x* and *s_y* are the scaling factors for the matrices.
