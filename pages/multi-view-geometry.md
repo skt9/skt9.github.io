@@ -13,7 +13,7 @@ To go from a 3d point $P=(x,y,z,1)$ in homogenous world coordinates, to $(u,v)$ 
 
 $$
 (u,v,S) = \begin{bmatrix}2 & 3 & 4 & 5\\
-1 & 0 & 0 & 1}\\
+1 & 0 & 0 & 1\\
 2 & 3 & 4 & 5\\
 \end{bmatrix}
 $$
