@@ -34,7 +34,7 @@ We can write $(u,v,S)$ as $(u/S,v/S,1)$ as these are homogeneous coordinates. $u
 Assuming we rescale the matrix as
 
 $$
-u' = \frac{u}{2} = \frac{1}{2}\frac{m_1 P}{m_3 P}
+u' = \frac{u}{2} = \frac{1}{2}\frac{m_1 P}{m_3 P},  v'= \frac{v}{2} =  \frac{1}{2}\frac{m_2 P}{m_3 P}
 $$
 
 Thus, 
