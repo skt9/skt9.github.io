@@ -18,7 +18,10 @@ R_{31} & R_{32} & R_{33} & T_{z}\\
 0 & 0 & 0 & 1\\
 \end{pmatrix}
 \begin{pmatrix}
-x\\  y\\  z\\  1\\
+x\\  
+y\\  
+z\\ 
+1\\
 \end{pmatrix}
 $$
 
