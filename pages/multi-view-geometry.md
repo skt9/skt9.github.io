@@ -29,6 +29,6 @@ z\\
 \end{pmatrix}
 $$
 
-We can write $(u,v,S)$ as $(u/S,v/S,1) as these are homogeneous coordinates. $u$ then can be written as $\frac{m_1 P}{m_3P}$. $v$ then can be written as $\frac{m_2 P}{m_3 P}$, where if $M$ is the project of the intrinsic and transformation matices, then $m_1$ is the 1st row of $M$.
+We can write $(u,v,S)$ as $(u/S,v/S,1)$ as these are homogeneous coordinates. $u$ then can be written as $\frac{m_1 P}{m_3P}$. $v$ then can be written as $\frac{m_2 P}{m_3 P}$, where if $M$ is the project of the intrinsic and transformation matices, then $m_1$ is the 1st row of $M$.
 
 
