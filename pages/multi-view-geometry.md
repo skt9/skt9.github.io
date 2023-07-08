@@ -41,8 +41,8 @@ Rewritten in matrix form this is:
 
 
 $$
-(u',v',S) = \begin{pmatrix}\alpha_{x} & 0 & u_0 & \\
-0 & \alpha_{y} & v_0\\
+(u',v',S) = \begin{pmatrix}\alpha_{x} & 0 & 0.5u_0\\
+0 & \alpha_{y} & 0.5v_0\\
 0 & 0 & 1 \\
 \end{pmatrix}
 \begin{pmatrix}0.5 & 0 & 0.5 & \\
