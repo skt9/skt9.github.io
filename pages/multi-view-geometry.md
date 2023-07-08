@@ -9,7 +9,9 @@ tags: ["Geometric vision", "Multi-view Geometry"]
 
 #### How does scaling an image affect the intrinsic matrix? 
 
-Refer to the following [post](https://dsp.stackexchange.com/questions/6055/how-does-resizing-an-image-affect-the-intrinsic-camera-matrix). 
+Refer to the following posts.[link1](https://dsp.stackexchange.com/questions/6055/how-does-resizing-an-image-affect-the-intrinsic-camera-matrix), 
+[link 2](https://stackoverflow.com/questions/74749690/how-will-the-camera-intrinsics-change-if-an-image-is-cropped-resized).
+
 This article is based on it.
 
 To go from a 3d point $P=(x,y,z,1)$ in homogenous world coordinates, to $(u,v)$ in camera coordinates, the following equation holds true:
