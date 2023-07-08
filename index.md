@@ -24,7 +24,8 @@ To [How to use bold math symbols in latex.](https://texfaq.org/FAQ-boldgreek)
 Taurus load PyTorch: 
 
 - module load modenv/hiera  GCC/11.3.0  OpenMPI/4.1.4 PyTorch/1.12.0-CUDA-11.7.0
-- virtualenv --system-site-packages TRCH 
+- virtualenv --system-site-packages TRCH
+- 
 ---
 
 ### The use of SDEs for Diffusion Models
@@ -32,6 +33,10 @@ Taurus load PyTorch:
 Right now we will go to the [following link](pages/sde.md).
 
 ---
+
+### Notes on Multiview Geometry
+
+The multi-view geometry related notes can be found [here](pages/multi-view-geometry.md).
 
 
 ### Visualization and Annotation Information Storage
