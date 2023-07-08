@@ -17,6 +17,9 @@ R_{21} & R_{22} & R_{23} & T_{y}\\
 R_{31} & R_{32} & R_{33} & T_{z}\\
 0 & 0 & 0 & 1\\
 \end{pmatrix}
+\begin{pmatrix}
+x\\  y\\  z\\  1\\
+\end{pmatrix}
 $$
 
 
