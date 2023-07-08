@@ -15,7 +15,6 @@ $$
 (u,v,S) = \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
 * \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack
 = \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack
-
 $$
 
 
